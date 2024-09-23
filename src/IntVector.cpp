@@ -1,7 +1,3 @@
-//Fredrik Haupt caha6864
-
-// Labb2, IntVector.cpp – definitioner av icke-triviala medlemsfunktioner
-
 #include <iostream>
 #include <initializer_list>
 #include <string>
