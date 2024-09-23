@@ -1,7 +1,3 @@
-//Fredrik Haupt caha6864
-
-// Labb2, IntVector.h – klassdefinition
-
 #ifndef INTVECTOR_H
 #define INTVECTOR_H
 
